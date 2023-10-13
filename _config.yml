@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Eleni Matechou / Reader in Statistics"
+title                    : "Dr Eleni Matechou"
 title_separator          : "-"
 name                     : &name "Eleni Matechou"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eleni Matechou"
   avatar           : "photo.jpg"
-  bio              : "Reader in Statistics, University of Kent.\\ Deputy Director of the National Centre for Statistical Ecology"
+  bio              : "Reader in Statistics; Deputy Director of the National Centre for Statistical Ecology"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
