@@ -1,14 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am Reader in Statistics at the School of Mathematics, Statistics and Actuarial Science [SMSAS](https://www.kent.ac.uk/mathematics-statistics-actuarial-science) of the University of Kent and a member of the Statistical Ecology @ Kent [SE@K](https://research.kent.ac.uk/statistical-ecology/) group and of the Durrell Institute of Conservation and Ecology [DICE](https://research.kent.ac.uk/dice/).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research expertise is in the area of Statistical Ecology, and in particular developing new statistical models and associated software for monitoring migration and phenological patterns of populations, for citizen science and related data, and for monitoring biodiversity using DNA-based survey data. I am also interested in the applications of Bayesian methods, and more specifically of Bayesian nonparametric methods, in ecology.
+
+During 2011-2014 I was working at the University of Oxford as a Departmental Lecturer at the Department of Statistics and as a Stipendiary Lecturer at St Peters College.
+
+My first post-doctoral job, during 2010-2011, was at Victoria University of Wellington, New Zealand where I was employed as a Research and Teaching Fellow.
+
+My PhD, completed in 2010, was a joint project between the Max Planck Institute for Demographic Research, Rostock, Germany and the University of Kent.
+
+I hold an MSc in Statistics with Applications in Medicine from the University of Southampton and a BSc in Statistics from Athens University of Economics and Business.
 
 A data-driven personal website
 ======
