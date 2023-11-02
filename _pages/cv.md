@@ -9,11 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Employment
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Currently : Reader in Statistics, School of Mathematics, Statistics and Actuarial Science, University of Kent, UK.
+<br />
+
+October 2020--September 2023 : Senior Lecturer in Statistics, School of Mathematics, Statistics and Actuarial Science, University of Kent, UK.
+ <br />
+ 
+August 2014--September 2020 : Lecturer in Statistics, School of Mathematics, Statistics and Actuarial Science, University of Kent, UK. 
+<br />
+
+September 2011--August 2014 : Departmental and Stipendiary Lecturer in Statistics, Department of Statistics and St Peter's College, University of Oxford, UK.
+<br />
+
+January 2011--September 2011 : Research & Teaching Fellow, School of Mathematics and Statistics, Victoria University of Wellington, New Zealand. 
 
 Work experience
 ======
