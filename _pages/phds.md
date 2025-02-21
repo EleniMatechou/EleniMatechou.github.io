@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /PhD students/
+permalink: /phds/
 author_profile: true
 ---
 
