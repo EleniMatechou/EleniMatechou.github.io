@@ -74,6 +74,6 @@ Chair of the Environmental Statistics Section, Royal Statistical Society (2019â€
 Co-chair of the Capture-Recapture session of the EURING international conference (2017)  
 <br />
 
-C
+
 
 
