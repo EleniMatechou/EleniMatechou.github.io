@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
 A full list of my publications is available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=fbgffisAAAAJ).  
 <br />
 
