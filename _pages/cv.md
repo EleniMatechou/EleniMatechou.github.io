@@ -11,9 +11,12 @@ redirect_from:
 
 Employment
 ======
-Currently : Reader in Statistics, School of Mathematics, Statistics and Actuarial Science, University of Kent, UK.
+Currently : Reader in Statistics, School of Mathematical Science, Queen Mary University of London, UK.
 <br />
 
+October 2023--April 2025 : Reader in Statistics, School of Mathematics, Statistics and Actuarial Science, University of Kent, UK.
+ <br />
+ 
 October 2020--September 2023 : Senior Lecturer in Statistics, School of Mathematics, Statistics and Actuarial Science, University of Kent, UK.
  <br />
  
@@ -25,45 +28,52 @@ September 2011--August 2014 : Departmental and Stipendiary Lecturer in Statistic
 
 January 2011--September 2011 : Research & Teaching Fellow, School of Mathematics and Statistics, Victoria University of Wellington, New Zealand. 
 
-Work experience
+Education
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+September 2014–September 2015 : Postgraduate Certificate in Higher Education, University of Kent, UK.  
+<br />
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+September 2006–November 2010 : PhD in Statistics, Max Planck Institute for Demographic Research, Germany & University of Kent, UK.  
+<br />
 
-Publications
+September 2005–September 2006 : MSc in Statistics with Applications in Medicine, University of Southampton, UK.  
+<br />
+
+September 2000–September 2005 : BSc in Statistics, Athens University of Economics and Business, Greece.  
+<br />
+
+Professional Roles
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ISBA Environmental Sciences Section Secretary (since 2024)  
+<br />
+
+Associate Editor for Annals of Applied Statistics (since 2024)  
+<br />
+
+Member of the UKDNA Steering Committee (since 2024)  
+<br />
+
+Associate Editor for the Journal of Agricultural, Biological and Environmental Statistics (since 2024)  
+<br />
+
+Scientific Committee member for the International Statistical Ecology Conference (2024)  
+<br />
+
+Deputy Director of the National Centre for Statistical Ecology (since 2022)  
+<br />
+
+Associate Editor for the Journal of the Royal Statistical Society - Series C (2021–2024)  
+<br />
+
+Book Reviews Editor for the Journal of Agricultural, Biological and Environmental Statistics (2019–2024)  
+<br />
+
+Chair of the Environmental Statistics Section, Royal Statistical Society (2019–2022)  
+<br />
+
+Co-chair of the Capture-Recapture session of the EURING international conference (2017)  
+<br />
+
+C
+
+
