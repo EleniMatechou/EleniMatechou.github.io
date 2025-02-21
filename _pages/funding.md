@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Funding
+layout: archive
+title: ""
 permalink: /funding/
+author_profile: true
 ---
 
 ## Current Funding
