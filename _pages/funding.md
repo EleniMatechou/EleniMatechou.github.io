@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Funding
-
 - **🔴 live** £35,086.17, **PI**, _“Spatio-temporal models for large sets of citizen science data to inform conservation policy”_, Butterfly Conservation, 2024–2028.
 - **🔴 live** £270,000, **CoI**, _“Overcoverage in population registers”_, Swedish Research Council, 2021–2026.
 - £2,654.87, **PI**, _“Bayesian Variable Selection in Dynamic Occupancy Models”_, Instituto Pirenaico de Ecologia, 2023.
