@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Reader in Statistics** at the [School of Mathematical Sciences, Queen Mary, University of London](https://www.qmul.ac.uk/maths/).
+I am **Reader in Statistics** at the [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/) , Queen Mary, University of London.
 
 My research expertise is in the area of Statistical Ecology, and in particular developing new statistical models and associated software for monitoring migration and phenological patterns of populations, for citizen science and related data, and for monitoring biodiversity using DNA-based survey data. I am also interested in the applications of Bayesian methods, and more specifically of Bayesian nonparametric methods, in ecology.
 
