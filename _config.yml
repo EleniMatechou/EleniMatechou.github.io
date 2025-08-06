@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "null"
-title                    : "Dr"
+title                    : ""
 title_separator          : "-"
 name                     : &name Eleni Matechou "Your Name"
 description              : &description "Reader in Statistics"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "1746559951301.jfif"
   name             : ""
-  pronouns         : she/her # example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   employer         : "QMUL"
   email            : "e.matechou@qmul.ac.uk" 
 
