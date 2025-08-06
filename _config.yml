@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "1746559951301.jfif"
   name             : ""
-  pronouns         : "she/her" # example: "she/her"  
-  employer         : "QMUL"
-  email            : "e.matechou@qmul.ac.uk" 
+  pronouns         : "pronouns: she/her" # example: "she/her"  
+  employer         : "affiliation: QMUL"
+  email            : "email: e.matechou@qmul.ac.uk"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fbgffisAAAAJ&view_op=list_works&sortby=pubdate"
