@@ -26,7 +26,7 @@ author:
   name             : ""
   pronouns         : "pronouns: she/her" # example: "she/her"  
   employer         : "affiliation: QMUL"
-  email            : "email: e.matechou@qmul.ac.uk"
+  email            : e.matechou@qmul.ac.uk
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fbgffisAAAAJ&view_op=list_works&sortby=pubdate"
