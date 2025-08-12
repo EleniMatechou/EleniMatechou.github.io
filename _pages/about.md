@@ -9,12 +9,10 @@ redirect_from:
 
 I am **Reader in Statistics** at the [School of Mathematical Sciences](https://www.qmul.ac.uk/maths/) , Queen Mary, University of London.
 
-My research expertise is in the area of Statistical Ecology, and in particular developing new statistical models and associated software for monitoring migration and phenological patterns of populations, for citizen science and related data, and for monitoring biodiversity using DNA-based survey data. I am also interested in the applications of Bayesian methods, and more specifically of Bayesian nonparametric methods, in ecology.
+My research expertise is in the area of Statistical Ecology, and in particular developing new statistical models and associated software for monitoring migration and phenological patterns of populations, for citizen science and related data, and for monitoring populations using DNA-based survey data. I am also interested in the applications of Bayesian methods, and more specifically of Bayesian nonparametric methods, in ecology.
 
-During 2011-2014 I was working at the University of Oxford as a Departmental Lecturer at the Department of Statistics and as a Stipendiary Lecturer at St Peters College.
+Read more about our work on modelling
 
-My first post-doctoral job, during 2010-2011, was at Victoria University of Wellington, New Zealand where I was employed as a Research and Teaching Fellow.
+- DNA-based survey data, including links to papers, R packages and examples.
+- human population register data, in collaboration with the University of Stockholm.
 
-My PhD, completed in 2010, was a joint project between the Max Planck Institute for Demographic Research, Rostock, Germany and the University of Kent.
-
-I hold an MSc in Statistics with Applications in Medicine from the University of Southampton and a BSc in Statistics from Athens University of Economics and Business.
