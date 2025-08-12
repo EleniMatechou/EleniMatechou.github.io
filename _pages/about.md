@@ -13,8 +13,9 @@ My research expertise is in the area of Statistical Ecology, and in particular d
 
 A copy of my CV (last updated on 12/8/25) is available [here](/files/MatechouCV.pdf).
 
-#Read more about our work on modelling
+<!-- #Read more about our work on modelling
 
 #- DNA-based survey data, including links to papers, R packages and examples.
-#- human population register data, in collaboration with the University of Stockholm.
+#- human population register data, in collaboration with the University of Stockholm. -->
+
 
