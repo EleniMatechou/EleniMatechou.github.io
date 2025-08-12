@@ -8,7 +8,7 @@ tags:
 
 I gave an invited talk at the 14ths Bayesian Nonparametric Conference, which took place at UCLA, June 23-27th, 2025
 
-![BNP](/images/Screenshot (362).png)
+![BNP](/images/Screenshot362.png)
 
 I presented work that I have done over the last decade with collaborators (see below for links to papers) on BNP methods for ecological data, and especially in modelling phenological patterns of populations using capture-recapture, count and batch-mark data.
 ![BNP-me](/images/BNP14-274.jpg)  
