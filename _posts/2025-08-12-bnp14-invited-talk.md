@@ -23,5 +23,5 @@ With Alex Diana, Jim Griffin and others: [A general modeling framework for open 
 and
 [A HIERARCHICAL DEPENDENT DIRICHLET PROCESS PRIOR FOR MODELLING BIRD MIGRATION PATTERNS IN THE UK](https://www.jstor.org/stable/26922903?seq=1)
 
-With Francois Caron: [Modelling individual migration patterns using a Bayesian nonparametric approach for capture–recapture data] (https://projecteuclid.org/journals/annals-of-applied-statistics/volume-11/issue-1/Modelling-individual-migration-patterns-using-a-Bayesian-nonparametric-approach-for/10.1214/16-AOAS989.full)
+With Francois Caron: [Modelling individual migration patterns using a Bayesian nonparametric approach for capture–recapture data](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-11/issue-1/Modelling-individual-migration-patterns-using-a-Bayesian-nonparametric-approach-for/10.1214/16-AOAS989.full)
 
