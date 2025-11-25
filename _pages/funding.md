@@ -9,10 +9,10 @@ author_profile: true
 - **🔴 live** £270,000, **CoI**, _“Overcoverage in population registers”_, Swedish Research Council, 2021–2026.
 - £2,654.87, **PI**, _“Bayesian Variable Selection in Dynamic Occupancy Models”_, Instituto Pirenaico de Ecologia, 2023.
 - £99,607, **PI**, _Knowledge Transfer Partnership with NatureMetrics_, Innovate UK, 2022–2023.
-- £374,437.88, **PI**, _“Integrating new statistical frameworks into eDNA survey and analysis at the landscape scale”_, NERC, 2020–2023.
+- £374,437.88, **PI**, _“Integrating new statistical frameworks into eDNA survey and analysis at the landscape scale”_, NERC, 2020–2023 NE/T010045/1.
 - £12,000, **PI**, _“New statistical models for ecological data collected on migration routes”_, Royal Society International Exchanges Scheme, 2019–2021.
-- £53,584, **CoI**, _“Statistical models for wildlife population assessment and conservation”_, NERC Advanced Training Short Course Funding, 2017–2018.
-- £28,796, **CoI**, _“Statistical models for wildlife population assessment and conservation”_, NERC Advanced Training Short Course Funding, 2016.
+- £53,584, **CoI**, _“Statistical models for wildlife population assessment and conservation”_, NERC Advanced Training Short Course Funding, 2017–2018 NE/P020356/1.
+- £28,796, **CoI**, _“Statistical models for wildlife population assessment and conservation”_, NERC Advanced Training Short Course Funding, 2016 NE/N018346/1.
 
 **Internal funding**
 - 20,000, **CoI** ,_From pixels to populations"_, EPSRC internal funding for outreach activities, QMUL, with Kostas Papafitsoros, Silvia Liverani and Leinus Wunderlich, 2025.
