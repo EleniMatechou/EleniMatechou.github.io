@@ -6,7 +6,7 @@ tags:
   - plenary talks
 ---
 
-I have a plenary talk at STOR-i Annual Conference 2025.
+I gave a plenary talk at STOR-i Annual Conference 2025.
 
 ![stori](/images/stor-i-annual-conference-2025-5114-638726250646215001.png)
 
