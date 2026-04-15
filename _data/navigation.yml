@@ -2,18 +2,20 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    children:
-      - title: "Projects"
-        url: /projects/
-      - title: "Publications"
-        url: /publications/
-      - title: "Funding"
-        url: /funding/
-      - title: "Talks"
-        url: /talks/
-      - title: "PhD Students"
-        url: /phds/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "PhDs"
+    url: /phds/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Funding"
+    url: /funding/
 
   - title: "Teaching"
     url: /teaching/
