@@ -5,14 +5,12 @@ layout: single
 author_profile: true
 ---
 
-This section contains projects on environmental DNA (eDNA), metabarcoding, and statistical models for biodiversity monitoring.
+## Single-species models (qpCR)
 
----
+- [Modelling binary qPCR data (amplified/not amplified) to infer DNA presence/absence in the environment](/projects/edna/qpcr-binary/)
+- [Modelling Ct values to infer DNA concentration in the environment](/projects/edna/qpcr-ct/)
 
-## Projects
+### Multi-species (metabarcoding)
 
-### 🌱 Metabarcoding
-
-Statistical models for DNA-based biodiversity monitoring using metabarcoding data.
-
-👉 **[Go to Metabarcoding project](/projects/edna/metabarcoding/)**
+- [Modelling binary metabarcoding data (read > 0 or not) to infer DNA presence/absence in the environment](/projects/edna/metabarcoding-binary/)
+- [Modelling read count data to infer DNA concentration in the environment](/projects/edna/metabarcoding-counts/)
