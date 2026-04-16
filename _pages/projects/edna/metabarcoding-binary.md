@@ -5,16 +5,18 @@ layout: single
 author_profile: true
 ---
 
+This work was funded by Innovate UK through a KTP with NatureMetrics.
+
 ## Summary
 
 This work develops statistical models for analysing **metabarcoding data in binary form** (i.e. detection/non-detection based on whether reads are present). The aim is to infer species occurrence while explicitly accounting for the complex sources of error arising from environmental DNA workflows.
 
 The model extends occupancy modelling to eDNA metabarcoding by:
-- accounting for both **false negatives and false positives** arising from field sampling and laboratory processes,
+- accounting for both *false negatives and false positives* arising from field sampling and laboratory processes,
 - separating ecological signal from observation error across multiple stages of data generation,
-- enabling **multi-species inference** from high-dimensional metabarcoding datasets.
+- enabling *multi-species inference* from high-dimensional metabarcoding datasets.
 
-A key development is the **OccPlus framework**, which leverages the structure of metabarcoding data to improve estimation of species occurrence and community patterns. It allows reliable large-scale biodiversity inference from noisy detection data and is designed to scale to high-diversity systems.
+A key development is the *OccPlus framework*, which leverages the structure of metabarcoding data to improve estimation of species occurrence and community patterns. It allows reliable large-scale biodiversity inference from noisy detection data and is designed to scale to high-diversity systems.
 
 ## Papers
 
