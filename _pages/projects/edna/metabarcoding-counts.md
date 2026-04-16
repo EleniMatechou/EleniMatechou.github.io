@@ -23,4 +23,4 @@ The framework also incorporates species interactions and experimental features s
 
 ## Code
 
-- https://github.com/alexdiana1992/eDNAPlus
+- [Link to github repo](https://github.com/alexdiana1992/eDNAPlus)
