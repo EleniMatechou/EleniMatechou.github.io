@@ -19,7 +19,7 @@ The framework also incorporates species interactions and experimental features s
 
 ## Papers
 
-- [eDNAPlus: A unifying modelling framework for DNA-based biodiversity monitoring]([https://arxiv.org/abs/2211.12213](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412362))
+- [eDNAPlus: A unifying modelling framework for DNA-based biodiversity monitoring](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412362)
 
 ## Code
 
