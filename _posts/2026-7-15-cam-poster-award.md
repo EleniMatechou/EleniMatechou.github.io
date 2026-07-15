@@ -10,4 +10,4 @@ Congratulations to Cam Milliken who won a best poster award at the [2026 ISBA Wo
 
 ![Cam's poster on spatio-temporal modelling of bumblebee populations](/images/cam-poster.jpg)
 
-Cam's poster presented their MRes work on spatio-temporal modelling for POMS ([Pollinator Monitoring Scheme](https://ukpoms.org.uk/)). Cam's PhD is in collaboration with the Bumblebee Conservation Trust, supervised by me, Dr Christos Efstratiou (School of Computing, University of Kent), and Dr Richard Comont (BBCT), and is funded through the Leverhulme 'Space for Nature'.
+Cam's poster presented their MRes work on spatio-temporal modelling for POMS ([Pollinator Monitoring Scheme](https://ukpoms.org.uk/)). Cam's PhD is in collaboration with the Bumblebee Conservation Trust, supervised by me, Dr Christos Efstratiou (School of Computing, University of Kent), and Dr Richard Comont (BBCT), and is funded by the Leverhulme Trust.
